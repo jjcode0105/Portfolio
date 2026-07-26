@@ -85,7 +85,7 @@
   <img src="assets/screenshots/education-platform-admin.png" alt="온라인 교육 플랫폼 관리자 로그인 화면" width="100%" />
 </p>
 
-<p align="center"><sub>교육·커머스 플랫폼의 운영 관리자 접근 화면</sub></p>
+<p align="center"><sub>교육·커머스 플랫폼의 강좌 운영·검색 화면</sub></p>
 
 #### 제이제이코드 수행 범위
 
@@ -134,7 +134,7 @@
   <img src="assets/screenshots/operations-management-system.png" alt="프로젝트 손익 및 세무 일정 운영 시스템 로그인 화면" width="100%" />
 </p>
 
-<p align="center"><sub>프로젝트·매출·세무 일정을 관리하는 운영 시스템 접근 화면</sub></p>
+<p align="center"><sub>프로젝트별 계약·입금·수익 현황을 관리하는 운영 화면</sub></p>
 
 #### 제이제이코드 수행 범위
 
