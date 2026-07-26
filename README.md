@@ -33,12 +33,6 @@
 >
 > 웹페이지를 개별적으로 점검하고 결과를 문서로 정리하던 업무를 자동화했습니다. 운영팀과 파트너 조직이 같은 기준으로 진단, 개선, 결과 이력을 관리하는 B2B SaaS 구축이 목표였습니다.
 
-<p align="center">
-  <img src="assets/screenshots/search-analysis-saas.png" alt="검색 품질 및 광고 성과 진단 SaaS 로그인 화면" width="100%" />
-</p>
-
-<p align="center"><sub>검색 품질·광고 성과 진단 SaaS의 접근 화면</sub></p>
-
 #### 제이제이코드 수행 범위
 
 - URL 분석부터 결과 이력, 개선 과제, 보고서, 고객·파트너 운영까지 이어지는 제품 흐름 설계
@@ -82,10 +76,10 @@
 > 교육 상품의 판매와 결제, 수강, 콘텐츠 운영, 고객 지원을 분리된 도구가 아닌 하나의 서비스 흐름으로 제공합니다. 신규 기능 개발과 운영 중인 서비스의 모바일 UX 개선을 함께 수행했습니다.
 
 <p align="center">
-  <img src="assets/screenshots/education-platform-admin.png" alt="온라인 교육 플랫폼 관리자 로그인 화면" width="100%" />
+  <img src="assets/screenshots/education-platform-admin-anonymized.png" alt="비식별 처리된 온라인 교육 플랫폼 강좌 운영 화면" width="100%" />
 </p>
 
-<p align="center"><sub>교육·커머스 플랫폼의 강좌 운영·검색 화면</sub></p>
+<p align="center"><sub>비식별 처리된 교육·커머스 플랫폼의 강좌 운영·검색 화면</sub></p>
 
 #### 제이제이코드 수행 범위
 
@@ -131,10 +125,10 @@
 > 프로젝트 중심으로 매출, 비용, 외주 정산, 증빙, 세무 일정을 관리해야 하는 소규모 IT 사업자의 운영 업무를 하나의 시스템으로 통합했습니다.
 
 <p align="center">
-  <img src="assets/screenshots/operations-management-system.png" alt="프로젝트 손익 및 세무 일정 운영 시스템 로그인 화면" width="100%" />
+  <img src="assets/screenshots/operations-management-system-anonymized.png" alt="비식별 처리된 프로젝트 손익 운영 화면" width="100%" />
 </p>
 
-<p align="center"><sub>프로젝트별 계약·입금·수익 현황을 관리하는 운영 화면</sub></p>
+<p align="center"><sub>비식별 처리된 프로젝트별 계약·입금·수익 현황 운영 화면</sub></p>
 
 #### 제이제이코드 수행 범위
 
@@ -177,12 +171,6 @@
 > **프로젝트 목표**
 >
 > 여러 검색 성과 지표를 주기적으로 수집하고, 프로젝트·그룹·키워드 단위의 변화를 한눈에 확인할 수 있도록 데이터 제품으로 구현했습니다.
-
-<p align="center">
-  <img src="assets/screenshots/search-performance-platform.png" alt="검색 성과 데이터 수집 및 시각화 플랫폼 랜딩 화면" width="100%" />
-</p>
-
-<p align="center"><sub>검색 성과 데이터 플랫폼의 사용자 접근 화면</sub></p>
 
 #### 제이제이코드 수행 범위
 
